@@ -1,0 +1,10 @@
+# Ignore All:
+*
+
+# Whitelist:
+!/.config/
+!/.local/
+!.gitconfig
+!.gitignore
+!.profile
+!.zprofile

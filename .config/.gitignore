@@ -1,0 +1,10 @@
+# Ignore All:
+*
+
+# Traverse Directories:
+!*/
+
+# Whitelist:
+!/alias/**
+!/zsh/**
+!.gitignore
